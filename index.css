@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.score-container {
+    margin: 10px;
+    background: blue;
+    border: 2px solid black;
+    height: 100px;
+    width: 100px;
+}
+
+#score {
+    font-size: large;
+}
+
+.add-scores-container {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
