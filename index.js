@@ -33,7 +33,7 @@ function addThree(btnEl) {
 }
 
 function resetScore(btnEl) {
-    if (btnEl.id === 'add-home') {
+    if (btnEl.id === 'reset-home') {
         homeScoreEl.textContent = 0
     } else {
         guestScoreEl.textContent = 0
