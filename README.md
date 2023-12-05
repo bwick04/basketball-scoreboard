@@ -1,21 +1,5 @@
-# cz9adVfP
+Simple basketball scoreboard app built with JavaScript, HTML, CSS.
 
-Quick start:
+Deployed with Netlify at: https://basketball-scoreboard-4bb67a.netlify.app
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+<img width="858" alt="Screenshot 2023-12-05 at 2 59 06 PM" src="https://github.com/bwick04/basketball-scoreboard/assets/16809586/02cbdc57-6737-4ab9-a76b-85ab3db31222">
