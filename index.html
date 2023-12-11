@@ -14,9 +14,9 @@
                     <p id="home-score">0</p>
                 </div>
                 <div class="add-home-container"> 
-                    <button id="add-home" onclick="addOne(this)">+1</button>
-                    <button id="add-home" onclick="addTwo(this)">+2</button>
-                    <button id="add-home" onclick="addThree(this)">+3</button>
+                    <button data-testid="add-one-home" id="add-home" onclick="addOne(this)">+1</button>
+                    <button data-testid="add-two-home" id="add-home" onclick="addTwo(this)">+2</button>
+                    <button data-testid="add-three-home" id="add-home" onclick="addThree(this)">+3</button>
                 </div>
                 <button id="reset-home" onclick="resetScore(this)">Reset</button>
             </div>
@@ -26,9 +26,9 @@
                     <p id="guest-score">0</p>
                 </div>
                 <div class="add-guest-container"> 
-                    <button id="add-guest" onclick="addOne(this)">+1</button>
-                    <button id="add-guest" onclick="addTwo(this)">+2</button>
-                    <button id="add-guest" onclick="addThree(this)">+3</button>
+                    <button data-testid="add-one-guest" id="add-guest" onclick="addOne(this)">+1</button>
+                    <button data-testid="add-two-guest" onclick="addTwo(this)">+2</button>
+                    <button data-testid="add-three-guest" onclick="addThree(this)">+3</button>
                 </div>
                 <button id="reset-guest" onclick="resetScore(this)">Reset</button>
             </div>
